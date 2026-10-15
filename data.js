@@ -149,7 +149,10 @@ const DATA = {
           "page": 13
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä varastoalan käytännön työtehtävissä käsittelemällä, varastoimalla ja lähettämällä tavaraa, jonka varastointi on luvanvaraista lainsäädännön tai viranomaismääräysten perusteella.\n\nSiltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin, joita voivat olla käyttöturvallisuustiedotteet, vaarallisen jätteen siirtoilmoitukset, omavalvontasuunnitelma tai muut kirjalliset dokumentit.",
+      "demonstrationPages": [
+        13
+      ]
     },
     "200056": {
       "id": "200056",
@@ -204,7 +207,10 @@ const DATA = {
           "page": 19
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa laatimalla työhön liittyvän kehittämissuunnitelman. Suunnitelma voi olla osa laajempaa projektia, josta opiskelijalle on määritelty itsenäisesti tehtävä osuus. Opiskelija laatii suunnitelman valitsemillaan välineillä ja tuottaa kehitystyön kannalta tarpeellista dokumentaatiota. Opiskelija arvioi suunnitelmassaan kehitystyön hyötyjä ja riskejä SWOT -analyysilla tai muulla menetelmällä. Opiskelija esittelee kehittämissuunnitelman valitsemallaan tavalla.",
+      "demonstrationPages": [
+        19
+      ]
     },
     "200051": {
       "id": "200051",
@@ -409,7 +415,10 @@ const DATA = {
           "page": 22
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä varastoalan käytännön työtehtävissä tekemällä perusvarastotöitä kuten vastaanotto-, säilytys-, keräily-, pakkaus-, lähetys-, inventointi- ja trukkityötä. Hän lajittelee työssään syntyvät jätteet.\n\nSiltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin, joita voivat olla keräily- ja lähetyslistat sekä rahtikirjat tai muut kirjalliset dokumentit.",
+      "demonstrationPages": [
+        22
+      ]
     },
     "200613": {
       "id": "200613",
@@ -499,7 +508,10 @@ const DATA = {
           "page": 24
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä aidoissa automatisoidun varaston työtehtävissä käsittelemällä, varastoimalla ja lähettämällä tavaraa. Hän käyttää varastonhallintaan käytettäviä järjestelmiä varastoinnin ohjaamiseen. Opiskelija selvittää prosessissa ilmenevät poikkeamat ja toimii yhteistyössä muun henkilöstön kanssa.\n\nSiltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        24
+      ]
     },
     "200052": {
       "id": "200052",
@@ -614,7 +626,10 @@ const DATA = {
           "page": 28
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä varastoalan käytännön työtehtävissä suunnittelemalla ja tekemällä työtään tulevien tai lähtevien materiaalivirtojen mukaisesti tilaus-toimitusketjussa. Hän käyttää työssään yrityksen varastonhallintajärjestelmää ja osallistuu varastonohjaukseen.\n\nSiltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin, joita voivat olla osto- ja myyntitilaukset, lähetyslistat sekä rahtikirjat tai muut kirjalliset dokumentit.",
+      "demonstrationPages": [
+        28
+      ]
     },
     "200057": {
       "id": "200057",
@@ -699,7 +714,10 @@ const DATA = {
           "page": 29
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä perehdyttämällä työntekijän tai perehdytettävän yrityksen organisaatioon ja työtehtäviin. Opiskelija ohjaa ja arvioi perehdytettävän oppimista sekä dokumentoi perehdyttämisen. Opiskelija arvioi myös omaa osaamistaan perehdyttäjänä.\n\nSiltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        29
+      ]
     },
     "200588": {
       "id": "200588",
@@ -979,7 +997,10 @@ const DATA = {
           "page": 17
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän kuljetustehtävässä linja-autolla aikataulunmukaisessa, säännöllisessä reittiliikenteessä, joka voi olla paikallisliikennettä, seutu- tai kaukoliikennettä. Työtehtävän tulee olla aikataulun mukaista ja sen tulee sisältää lipunmyyntitoimintoja. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        17
+      ]
     },
     "200589": {
       "id": "200589",
@@ -1069,7 +1090,10 @@ const DATA = {
           "page": 18
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä toimimalla ajoneuvo- tai kuljetusalan ympäristössä työnjohdollisissa tehtävissä. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        18
+      ]
     },
     "200591": {
       "id": "200591",
@@ -1444,7 +1468,10 @@ const DATA = {
           "page": 26
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän eläinkuljetustehtävässä kuorma-autolla tai ajoneuvoyhdistelmällä. Työtehtävänä on suunnitella ja toteuttaa eläinkuljetus. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        26
+      ]
     },
     "200592": {
       "id": "200592",
@@ -1789,7 +1816,10 @@ const DATA = {
           "page": 30
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän erikoiskuljetustehtävässä ajoneuvoyhdistelmällä. Työtehtävänä on suunnitella ja toteuttaa erikoiskuljetus. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        30
+      ]
     },
     "200593": {
       "id": "200593",
@@ -1904,7 +1934,10 @@ const DATA = {
           "page": 31
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä valmistelemalla ja tekemällä sekä purkamalla rahtikuorman linja-autoon. Työ suoritetaan joko rahdinkuljetuksena yrityksen työelämän tilanteissa tai muun työprosessin yhteydessä osana kuljetustehtävää. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        31
+      ]
     },
     "200595": {
       "id": "200595",
@@ -2179,7 +2212,10 @@ const DATA = {
           "page": 36
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla linja- tai kuorma-auton huolto- ja kunnossapitotehtäviä. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        36
+      ]
     },
     "200596": {
       "id": "200596",
@@ -2569,7 +2605,10 @@ const DATA = {
           "page": 39
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän kaupan tai teollisuuden tavarakuljetustehtävässä kuorma-autolla tai ajoneuvoyhdistelmällä. Työtehtävänä on suunnitella ja toteuttaa kappaletavara- tai elintarvikekuljetus. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        39
+      ]
     },
     "200597": {
       "id": "200597",
@@ -2649,7 +2688,10 @@ const DATA = {
           "page": 40
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suunnittelemalla omaan vastuualueeseen tai yritykseen keskeisesti kytkeytyvän kehitystehtävän. Opiskelija laatii toteuttamiskelpoisen suunnitelman ja esittelee kehitystehtävän ja johtopäätökset kehitystehtävän tulosten hyödynnettävyydestä. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        40
+      ]
     },
     "101193": {
       "id": "101193",
@@ -3059,7 +3101,10 @@ const DATA = {
           "page": 44
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä valmistelemalla sekä päättämällä työpäivänsä ja toimimalla työyhteisössä yhteistyössä sidosryhmien kanssa. Työ suoritetaan joko omana työprosessinaan tai osana muuta kuljetustehtävää. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        45
+      ]
     },
     "108354": {
       "id": "108354",
@@ -3074,8 +3119,12 @@ const DATA = {
           "page": 45
         }
       ],
-      "demonstration": "",
-      "procedure": "Tutkinnon perusteissa tämän osan suoritus perustuu erilliseen ammattipätevyyden koulutus- ja koemenettelyyn tai koevaihtoehtoon. Kirjaa tähän suorituksen toteaminen ja tarvittavat huomiot. Tämä sovellus ei korvaa ammattipätevyyskoetta."
+      "demonstration": "Lain edellytysten mukaisesti ammattipätevyys voidaan saavuttaa joko opetukseen osallistumisen ja kokeen suorittamisen käsittävässä vaihtoehdossa tai pelkkien kokeiden suorittamisen käsittävän vaihtoehdon mukaisesti.\n\nAmmatillisessa koulutuksessa, jonka kesto on vähintään kuusi kuukautta ja enintään kolme vuotta, koe saadaan suorittaa vaiheittain. Koe suoritetaan, kun säädetty opetus on saatu. Opetusta vastaavan kokeen on sisällettävä vähintään yksi kysymys oppiaineiden jokaista suoritettavan kuljetusmuodon tavoitetta kohden. Kokeen kaikista kysymyksistä pitää olla yhteensä vähintään 75 % oikein. Kokeen kielet ovat suomi tai ruotsi, jollei opetus- ja kulttuuriministeriön koulutuksen järjestämisluvasta muuta johdu. Kokeen arvioijalla on oltava tehtävän edellyttämä asiantuntemus ja ammattitaito.\n\nAmmatillisessa koulutuksessa, perustason ammattipätevyyskoulutukseen sisältyvä teoriakoe ja perustason ammattipätevyyskoe voidaan suorittaa vaiheittain.\n\nKokeet voidaan järjestää opetus- ja kulttuuriministeriön hyväksymässä koulutuskeskuksessa osana ammatillista kuljettajakoulutusta. Perustason ammattipätevyyskoulutukseen sisältyvien teoriakokeiden sekä koemallin mukaisten ammattipätevyyskokeiden järjestämisestä ja valvonnasta sekä koetta koskevien todistusten antamisesta vastaa ammatillisesta koulutuksesta annetun lain 531/2017, 120 §:n 3 momentin 1 kohdassa tarkoitettu työelämätoimikunta.",
+      "procedure": "Tutkinnon perusteissa tämän osan suoritus perustuu erilliseen ammattipätevyyden koulutus- ja koemenettelyyn tai koevaihtoehtoon. Kirjaa tähän suorituksen toteaminen ja tarvittavat huomiot. Tämä sovellus ei korvaa ammattipätevyyskoetta.",
+      "demonstrationPages": [
+        46
+      ],
+      "demonstrationSourceHeading": "Arviointi"
     },
     "108353": {
       "id": "108353",
@@ -3090,8 +3139,12 @@ const DATA = {
           "page": 46
         }
       ],
-      "demonstration": "",
-      "procedure": "Tutkinnon perusteissa tämän osan suoritus perustuu erilliseen ammattipätevyyden koulutus- ja koemenettelyyn tai koevaihtoehtoon. Kirjaa tähän suorituksen toteaminen ja tarvittavat huomiot. Tämä sovellus ei korvaa ammattipätevyyskoetta."
+      "demonstration": "Lain edellytysten mukaisesti ammattipätevyys voidaan saavuttaa joko opetukseen osallistumisen ja kokeen suorittamisen käsittävässä vaihtoehdossa tai pelkkien kokeiden suorittamisen käsittävän vaihtoehdon mukaisesti.\n\nAmmatillisessa koulutuksessa, jonka kesto on vähintään kuusi kuukautta ja enintään kolme vuotta, koe saadaan suorittaa vaiheittain. Koe suoritetaan, kun säädetty opetus on saatu. Opetusta vastaavan kokeen on sisällettävä vähintään yksi kysymys oppiaineluettelon jokaista tavoitetta kohden. Kokeen kaikista kysymyksistä pitää olla yhteensä vähintään 75 % oikein. Kokeen kielet ovat suomi tai ruotsi, jollei opetus- ja kulttuuriministeriön koulutuksen järjestämisluvasta muuta johdu. Kokeen arvioijalla on oltava tehtävän edellyttämä asiantuntemus ja ammattitaito.\n\nAmmatillisessa koulutuksessa sekä perustason ammattipätevyyskoulutukseen sisältyvä teoriakoe että perustason ammattipätevyyskoe voidaan suorittaa vaiheittain.\n\nKokeet voidaan järjestää opetus- ja kulttuuriministeriön hyväksymässä koulutuskeskuksessa osana ammatillista kuljettajakoulutusta. Perustason ammattipätevyyskoulutukseen sisältyvien teoriakokeiden sekä koemallin mukaisten ammattipätevyyskokeiden järjestämisestä ja valvonnasta sekä koetta koskevien todistusten antamisesta vastaa ammatillisesta koulutuksesta annetun lain 531/2017, 120 §:n 3 momentin 1 kohdassa tarkoitettu työelämätoimikunta.",
+      "procedure": "Tutkinnon perusteissa tämän osan suoritus perustuu erilliseen ammattipätevyyden koulutus- ja koemenettelyyn tai koevaihtoehtoon. Kirjaa tähän suorituksen toteaminen ja tarvittavat huomiot. Tämä sovellus ei korvaa ammattipätevyyskoetta.",
+      "demonstrationPages": [
+        50
+      ],
+      "demonstrationSourceHeading": "Arviointi"
     },
     "200599": {
       "id": "200599",
@@ -3521,7 +3574,10 @@ const DATA = {
           "page": 55
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä toimimalla kuljetusalan työnjohdollisissa tehtävissä. Sen lisäksi opiskelija laatii kuljettajan kahden viikon työvuorosuunnitelman. Opiskelija tekee henkilökohtaisen kehittymissuunnitelman työnjohdollisten taitojen kehittämiselle. Opiskelija esittelee yrityksen toiminnan, keskeiset asiakas- ja sidosryhmäsuhteet ja yrityksen palveluntarjonnan. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        55
+      ]
     },
     "200600": {
       "id": "200600",
@@ -3736,7 +3792,10 @@ const DATA = {
           "page": 57
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä toimimalla kuljetustoimintojen suunnittelu- ja organisointitehtävissä. Sen lisäksi opiskelija suunnittelee ja organisoi kuljetuksen itsenäisesti yrityksen toimintatavan mukaisesti ja laatii kuljetukselle toteuttamiskelpoisen tarjouksen. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        57
+      ]
     },
     "200601": {
       "id": "200601",
@@ -4016,7 +4075,10 @@ const DATA = {
           "page": 60
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän maa-aineskuljetustehtävässä ajoneuvoyhdistelmällä. Työtehtävänä on suunnitella ja toteuttaa maa-aineskuljetus. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        60
+      ]
     },
     "200606": {
       "id": "200606",
@@ -4336,7 +4398,10 @@ const DATA = {
           "page": 81
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän kuljetustehtävässä linja-autolla. Työtehtävänä on suorittaa palveluliikenne-, koulu-, erityisryhmien asiointi-, toiminta- palvelukeskus-, KELA - tai vammaispalvelukuljetus linja-autolla kaupungissa tai maaseudulla. Kuljetustehtävä voi olla asiointipalvelulinja, erityisryhmien päivä- tai toimintakeskuskuljetuksia, keräiltäviä koulukyytejä tai vammaispalvelulain mukaisia asiointimatkoja. Työ voi olla linjamaista, osittain kutsuohjattua tai kokonaan kutsuohjattua. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        81
+      ]
     },
     "200607": {
       "id": "200607",
@@ -4776,7 +4841,10 @@ const DATA = {
           "page": 89
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän säiliökuljetustehtävässä ajoneuvoyhdistelmällä. Työtehtävänä on suunnitella ja toteuttaa polttoneste-, kaasu-, kemikaali-, jauhe- tai elintarvikesäiliökuljetus. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        89
+      ]
     },
     "200609": {
       "id": "200609",
@@ -5071,7 +5139,10 @@ const DATA = {
           "page": 94
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työtehtävän kuljetustehtävässä tilausajovarustellulla linja-autolla. Työtehtävänä on suunnitella ja toteuttaa tilausajo joko koti- tai ulkomaanliikenteessä. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        95
+      ]
     },
     "200610": {
       "id": "200610",
@@ -5251,7 +5322,10 @@ const DATA = {
           "page": 96
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla työhön perehdyttämisen ja opastamisen. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        96
+      ]
     },
     "200611": {
       "id": "200611",
@@ -5436,7 +5510,11 @@ const DATA = {
           "page": 98
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä toimimalla varasto- tai terminaalitoimintojen organisointitehtävissä. Lisäksi opiskelija organisoi varasto- tai terminaalitoimintoihin liittyvän työprosessin työpaikan toimintatavan mukaisesti. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        98,
+        99
+      ]
     },
     "200612": {
       "id": "200612",
@@ -5821,7 +5899,10 @@ const DATA = {
           "page": 102
         }
       ],
-      "demonstration": ""
+      "demonstration": "Opiskelija osoittaa ammattitaitonsa näytössä käytännön työtehtävissä suorittamalla jätekuljetuksen, keräämisen ja purkamisen kuorma-autolla tai ajoneuvoyhdistelmällä. Jätekuljetus voidaan suoritta esimerkiksi yhdyskuntajätteiden, kierrätysmateriaalien, kaupan ja teollisuuden materiaalien, vaarallisten jätteiden ml. tietosuojattavat jätteet sekä saastuneiden maa-ainesten, kierrätys- ja lajittelupisteiden tai asumisessa syntyvän jätteiden tai teollisuuden jätevesilietteiden kuljetuksissa. Työtehtävänä on suunnitella ja toteuttaa kuljetettavan tuotteen kuljetukseen sopivalla ajoneuvolla ympäristöhuoltokuljetus. Siltä osin kuin tutkinnon osassa vaadittua ammattitaitoa ei voida arvioida näytön perusteella, ammattitaidon osoittamista täydennetään yksilöllisesti muilla tavoin.",
+      "demonstrationPages": [
+        102
+      ]
     }
   },
   "sources": {

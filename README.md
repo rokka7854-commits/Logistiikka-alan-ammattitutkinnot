@@ -34,3 +34,7 @@ Staattinen sovellus ilman palvelinta tai rakennusvaihetta. GitHub Pages: Setting
 Paikallinen testaus: `python -m http.server 8000` tässä kansiossa, sitten `http://localhost:8000`. PWA tarvitsee HTTPS-yhteyden tai localhostin.
 
 PDF-kirjasto: jsPDF 2.5.1, MIT-lisenssi (lisenssiteksti kirjastotiedostossa).
+
+## Ammattitaidon osoittamistavat
+
+Jokaisen tutkinnon osan arviointikohtien jälkeen, yhteenvedossa ja PDF-raportissa näkyy toimitetuista perusteista poimittu osoittamistapateksti. Tekstit ja niiden PDF-lähdesivut ovat `data.js`-tiedoston `demonstration`- ja `demonstrationPages`-kentissä. Kahdessa ammattipätevyysosassa ei ole erillistä Ammattitaidon osoittamistavat -kohtaa; niissä näytetään perusteiden Arviointi-kohdan teksti otsikolla Suoritustapa ja arviointi. Nämä ohjetekstit eivät lisää arviointikohtia eivätkä vaikuta hyväksymisprosenttiin.
